@@ -1,0 +1,16 @@
+body
+{
+    background: #29CE00;
+background: -moz-linear-gradient(left, #29CE00 0%, #9300A4 50%, #FFA800 100%);
+background: -webkit-linear-gradient(left, #29CE00 0%, #9300A4 50%, #FFA800 100%);
+background: linear-gradient(to right, #29CE00 0%, #9300A4 50%, #FFA800 100%);
+}
+#crearsalaboton
+{
+    -webkit-box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px, 5px 5px 15px 5px rgba(0,0,0,0);
+    background: #000000;
+    }
+    body#tinymce {
+    background: #000000
+    }
